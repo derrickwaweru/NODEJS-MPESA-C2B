@@ -1,0 +1,14 @@
+{
+  "name": "c2b-mpesa",
+  "version": "1.0.0",
+  "description": "A c2b node js mpesa application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derrick Wainaina",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
